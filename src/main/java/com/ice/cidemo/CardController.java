@@ -8,7 +8,7 @@ public class CardController {
 
   @GetMapping("/testing")
   public String testController(){
-    return "This is Spring Rest Controller";
+    return "This is Spring Rest Controller 34";
   }
 
 }
